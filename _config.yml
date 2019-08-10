@@ -19,16 +19,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: koshtitushar1994@gmail.com
-  facebook:
+  facebook: tushar.koshti.568
   flickr:
   github: 07101994
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/tushar-koshti-683b1bb0/
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  rss: RSS # just type anything here for a working RSS icon
+  twitter: tushar_koshti
+  stackoverflow: users/5254376/tushar-koshti # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: channel/UC5vgnY9icvChuiHCHvGQYxA # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -37,17 +37,17 @@ footer-links:
 disqus: koshtitushar
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-145392913-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://07101994.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "https://07101994.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
